@@ -8,6 +8,7 @@ function App() {
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <h1>Welcome to React</h1>
+        <h3>Declarative, Component-Based, Learn Once, Write Anywhere</h3>
         <p>A JavaScript library for building user interfaces</p>
         <a
           className='App-link'
